@@ -1,5 +1,6 @@
 //PJ JC 12/22/22 
 //Zoom- BA-SAC
+//Notes: Use helper function to hash characters to int values. Use mathematical formula to calculate value
 
 class Solution {
 public:
