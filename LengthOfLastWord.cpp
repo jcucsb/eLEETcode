@@ -2,8 +2,6 @@
 //ENG II 
 //Notes: use a catch to make sure not indexing out of bounds on first attempt
 
-
-
 class Solution {
 public:
     int lengthOfLastWord(string s) {
